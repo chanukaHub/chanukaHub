@@ -1,11 +1,11 @@
-### Hi there, I'm [Chanu!](https://facebook.com/chanuka.dilhara.393) 👋
+### **Hey there! I'm Chanuka 👨‍💻**  
 
-- 🔭 I’m currently working on chanukaHub.
-- 🌱 I’m currently learning SwiftUI.<!-- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about any tech-related stuff.
-- 📫 How to reach me: [Facebook](https://facebook.com/chanuka.dilhara.393)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Hello World!
+🚀 **Currently working on:** Mobile app development at iCan Lanka (Pvt) Ltd  
+📚 **Learning:** SwiftUI & iOS development  
+💡 **Ask me about:** Android & iOS development, Kotlin, Java, Swift, Objective-C  
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/chanuka-mullevidana/)  
+🌍 **Pronouns:** He/Him   
+🤝 **I’m looking to collaborate on:** Open-source mobile app projects or exploring new tech innovations for both Android and iOS.  
 
 <br/>
 <a href="https://github.com/chanukaHub">
