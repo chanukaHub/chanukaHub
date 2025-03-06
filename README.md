@@ -8,11 +8,11 @@
 🤝 **I’m looking to collaborate on:** Open-source mobile app projects or exploring new tech innovations for both Android and iOS.  
 
 <br/>
-<a href="https://github.com/chanukaHub">
- <img align="" src="https://github-readme-stats.vercel.app/api?username=chanukaHub&show_icons=true&theme=light&line_height=27" alt="chanu's github stats"/>
+<a href="https://github.com/chanukamullevidana">
+ <img align="" src="https://github-readme-stats.vercel.app/api?username=chanukamullevidana&show_icons=true&theme=light&line_height=27" alt="chanu's github stats"/>
 </a>
-<a href="https://github.com/chanukaHub">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukaHub&theme=light&hide_langs_below=1" />
+<a href="https://github.com/chanukamullevidana">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukamullevidana&theme=light&hide_langs_below=1" />
 </a>
 
 
